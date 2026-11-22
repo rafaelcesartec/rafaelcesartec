@@ -4,10 +4,7 @@
 
 I build apps, systems, websites and automations. AI speeds up the heavy lifting; I take care of what makes software last: architecture, security and process.
 
-Most of my work is for clients, in private repositories. To see what I'm working on now and get in touch, visit **[rafaelcesar.com](https://rafaelcesar.com)**.
-
-- My CV: [rafaelcesar.com/cv](https://rafaelcesar.com/cv)
-- My services (in Portuguese): [rafaelcesar.com/services](https://rafaelcesar.com/services)
+Most of my work is for clients, in private repositories. What I'm working on now, my services, my CV and how to reach me: all at **[rafaelcesar.com](https://rafaelcesar.com)**.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
